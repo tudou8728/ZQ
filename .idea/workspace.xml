@@ -2,46 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdcf000e-6a2b-46c6-a531-01f820ab9838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testcases/test_AddAttnInfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_AnnualExa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_CreditBindingCheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_CustInfoList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_CustMateria.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_GetBankInfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_GrpAccinfoCreate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_GrpCustInfoCreate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_QueryImgBase64.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_UpdateAttnInfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_UploadImg.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/1111.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/do_oracle.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/do_oracle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/context.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/context.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/do_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/do_excel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/sql.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/sql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datas/cases.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/test.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/test.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/cases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/datas/cases.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/case.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/case.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/case.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/logs/case.log.1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/reports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_suite_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_suite_new.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_集团基础信息修改.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_基础信息修改.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_集团证件信息修改.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_UpdateGrpCertInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_A继承.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_bss经办人信息查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_bssGetAttnInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_bss集团客户信息查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_BssGetCustInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_总部和政企照片同步上传.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_UploadSynchroImg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_所属银行列表查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_GetSuperBankInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_授信业务新增.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_AddAttnBusiness.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_查询影像资料图片信息.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_QueryFtpImgBase64.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_经办人授信查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_QueryCompanyCreBusinessDetail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_经办人查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_QueryAttnInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_获取组织机构代码校验服务.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_Validation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_获取行业分类.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_GetCallingType.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_资质资料新增.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_AddQualificationInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_资质资料查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_QualificationInquery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_集团基础信息修改（2）.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_UpdateGrpBasicsInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_集团基础信息查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_QueryGrpBasicsInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_集团证件信息查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_QueryGrpCertInfo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_AddAttnInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_AddAttnInfo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_CustMateria.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_CustMateria.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_GetBankInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_GetBankInfo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_GetCallingType.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_GetCallingType.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_GetSuperBankInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_GetSuperBankInfo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_GroupMaterialCreate.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_GroupMaterialCreate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_GrpAccinfoCreate.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_GrpAccinfoCreate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_GrpCustInfoCreate.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_GrpCustInfoCreate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_QueryFtpImgBase64.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_QueryFtpImgBase64.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_QueryImgBase64.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_QueryImgBase64.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_UpdateGrpBasicsInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_UpdateGrpBasicsInfo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_UploadImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_UploadImg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_UploadSynchroImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_UploadSynchroImg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_Validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_Validation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,23 +67,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="FullScreen" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/testcases" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\ZQ_code\testcases" />
-      <recent name="E:\ZQ_code" />
-      <recent name="E:\ZQ_code\common" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\ZQ_code\testcases" />
       <recent name="E:\ZQ_code\datas" />
       <recent name="E:\ZQ_code" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ZQ_code\testcases" />
+      <recent name="E:\ZQ_code" />
+      <recent name="E:\ZQ_code\common" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.run_test">
+  <component name="RunManager" selected="Python tests.Unittests in test_CustInfoList.py">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,27 +102,6 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <method />
-    </configuration>
-    <configuration name="run_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ZQ_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="Unittests for test_UpdateGrpBasicsInfo.UpdateGrpBasicsInfoTest" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="ZQ_code" />
@@ -186,7 +148,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_AnnualExasubmit.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_CreditBindingCheck.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ZQ_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,7 +158,21 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_AnnualExasubmit.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_CreditBindingCheck.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_CustInfoList.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ZQ_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_CustInfoList.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -214,7 +190,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_GroupMaterialCreate.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_GrpAccinfoCreate.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ZQ_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,11 +200,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_GroupMaterialCreate.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_GrpAccinfoCreate.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_UpdateGrpBasicsInfo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_GrpCustInfoCreate.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ZQ_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,27 +214,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_UpdateGrpBasicsInfo.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_GrpCustInfoCreate.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.run_test" />
       <item itemvalue="Python tests.Unittests for test_UpdateGrpBasicsInfo.UpdateGrpBasicsInfoTest" />
       <item itemvalue="Python tests.Unittests for testcases.test_UpdateGrpCertInfo.UpdateGrpCertInfoTest" />
       <item itemvalue="Python tests.Unittests for testcases.test_UpdateGrpCertInfo.UpdateGrpCertInfoTest.test_updateGrpCertInfo" />
-      <item itemvalue="Python tests.Unittests in test_AnnualExasubmit.py" />
+      <item itemvalue="Python tests.Unittests in test_CreditBindingCheck.py" />
+      <item itemvalue="Python tests.Unittests in test_CustInfoList.py" />
       <item itemvalue="Python tests.Unittests in test_GetBankInfo.py" />
-      <item itemvalue="Python tests.Unittests in test_GroupMaterialCreate.py" />
-      <item itemvalue="Python tests.Unittests in test_UpdateGrpBasicsInfo.py" />
+      <item itemvalue="Python tests.Unittests in test_GrpAccinfoCreate.py" />
+      <item itemvalue="Python tests.Unittests in test_GrpCustInfoCreate.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.run_test" />
+        <item itemvalue="Python tests.Unittests in test_CustInfoList.py" />
+        <item itemvalue="Python tests.Unittests in test_GrpCustInfoCreate.py" />
+        <item itemvalue="Python tests.Unittests in test_GrpAccinfoCreate.py" />
         <item itemvalue="Python tests.Unittests in test_GetBankInfo.py" />
-        <item itemvalue="Python tests.Unittests in test_AnnualExasubmit.py" />
-        <item itemvalue="Python tests.Unittests in test_GroupMaterialCreate.py" />
-        <item itemvalue="Python tests.Unittests in test_UpdateGrpBasicsInfo.py" />
+        <item itemvalue="Python tests.Unittests in test_CreditBindingCheck.py" />
       </list>
     </recent_temporary>
   </component>
@@ -348,22 +324,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="359" y="0" key="#do_excel/0.0.1280.680@0.0.1280.680" timestamp="1582708892676" />
-    <state width="1259" height="200" key="GridCell.Tab.0.bottom" timestamp="1586249993294">
+    <state width="1259" height="90" key="GridCell.Tab.0.bottom" timestamp="1587029534100">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="200" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586249993294" />
-    <state width="1259" height="200" key="GridCell.Tab.0.center" timestamp="1586249993294">
+    <state width="1259" height="90" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587029534100" />
+    <state width="1259" height="90" key="GridCell.Tab.0.center" timestamp="1587029534099">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="200" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586249993294" />
-    <state width="1259" height="200" key="GridCell.Tab.0.left" timestamp="1586249993293">
+    <state width="1259" height="90" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587029534099" />
+    <state width="1259" height="90" key="GridCell.Tab.0.left" timestamp="1587029534099">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="200" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586249993293" />
-    <state width="1259" height="200" key="GridCell.Tab.0.right" timestamp="1586249993294">
+    <state width="1259" height="90" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587029534099" />
+    <state width="1259" height="90" key="GridCell.Tab.0.right" timestamp="1587029534100">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="200" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586249993294" />
+    <state width="1259" height="90" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587029534100" />
     <state width="1133" height="255" key="GridCell.Tab.1.bottom" timestamp="1586241993472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -384,13 +360,13 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="134" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585189147241" />
-    <state x="326" y="182" key="com.intellij.ide.util.TipDialog" timestamp="1586394202268">
+    <state x="326" y="182" key="com.intellij.ide.util.TipDialog" timestamp="1587951870399">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="326" y="182" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586394202268" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584512826693">
+    <state x="326" y="182" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587951870399" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587109500301">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584512826693" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587109500301" />
   </component>
 </project>

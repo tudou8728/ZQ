@@ -6,8 +6,16 @@ config = ReadConfig()
 
 
 class Context:
+    #继承的号码和类型
     certNum_1=config.get('data','certNum_1')
     certType_1 =config.get('data','certType_1')
+    #获取组织机构代码校验
+    certNum_2 = config.get('data', 'certNum_2')
+    certType_2 = config.get('data', 'certType_2')
+    ##订单是否绑定
+    bmsAcceptId_1 =config.get('data', 'bmsAcceptId_1')
+    bmsAcceptId_2 = config.get('data', 'bmsAcceptId_2')
+
 
 def replace(data):
     p = "\$\{(.*?)}"

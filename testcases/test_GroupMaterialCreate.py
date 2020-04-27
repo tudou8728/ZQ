@@ -1,8 +1,4 @@
-# -*- coding:utf-8 _*-
-""" 
 
-@function：
-"""
 import unittest
 from faker import Faker
 from common.context import ReadConfig

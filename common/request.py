@@ -1,7 +1,4 @@
 # -*- coding:utf-8 _*-
-"""
-@function： Requests封装类，使用一个方法解决多种请求方式的调用
-"""
 
 import requests
 import json

@@ -12,9 +12,7 @@ from common import contants
 
 
 class Case:
-    """
-    测试用例封装类
-    """
+
 
     def __init__(self):
         self.id = None

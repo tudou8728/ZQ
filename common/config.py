@@ -1,7 +1,5 @@
 # -*- coding:utf-8 _*-
-"""
-@function： 配置文件类
-"""
+
 import configparser
 
 from common import contants

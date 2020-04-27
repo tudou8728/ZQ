@@ -1,14 +1,11 @@
-# -*- coding:utf-8 _*-
-"""
 
-@function：
-"""
+import json
 import unittest
 from   common import contants, logger,context
 from   common.do_excel import DoExcel
 from   common.request import Request
 from   libext.ddtnew import ddt, data
-
+from common.context import ReadConfig
 logger = logger.get_logger(logger_name='查询图片base64编码信息')
 
 
@@ -23,6 +20,11 @@ class QueryImgBase64Test(unittest.TestCase):
     @data(*cases)
     def test_queryImgBase64(self,case):
         logger.info("开始执行第{0}用例".format(case.id))
+        if case.id==1:
+            case.data = json.loads(case.data)
+            case.data['imgId'] = ReadConfig().get('data', 'imgId')
+            case.data = json.dumps(case.data)
+            case.data = context.replace(case.data)
         case.data=context.replace(case.data)
         print("请求参数是：", case.data)
         resp = self.request.request(case.method, case.url, case.data)

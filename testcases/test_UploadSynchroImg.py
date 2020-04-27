@@ -1,8 +1,4 @@
-# -*- coding:utf-8 _*-
-"""
 
-@function：
-"""
 import unittest
 from   common import contants, logger,context
 from   common.do_excel import DoExcel
